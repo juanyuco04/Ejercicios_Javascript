@@ -2,11 +2,11 @@
 
 // variable con nombre 
 
-let mombreUsuario = "Juan fernando"
+let mombreUsuario = "Juan fernando";
 
 function mostrarNombreUsuario() {
-    console.log("seÑor(a)" + mombreUsuario)
-    console.log("¿como se encuentra?")
-}
+    console.log("seÑor(a)" + mombreUsuario);
+    console.log("¿como se encuentra?");
+};
 
 mostrarNombreUsuario();
